@@ -1,4 +1,4 @@
-# <YOUR NAME> | B.Tech CSE Student
+# `YOUR NAME` | B.Tech CSE Student
 
 ![Profile Banner](https://via.placeholder.com/1200x300.png?text=Your+Professional+Tech+Banner)
 
