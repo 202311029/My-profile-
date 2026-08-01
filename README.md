@@ -64,7 +64,7 @@ To make this profile premium and recruiter-ready:
 - Participated in <hackathons/coding competitions>
 
 ## 🔍 ATS & LinkedIn Keywords
-`Software Developer` `Java Developer` `Python Developer` `Web Development` `Full Stack Developer` `Data Structures and Algorithms` `Machine Learning` `Artificial Intelligence` `Cloud Computing` `AWS` `Cybersecurity` `Secure Coding` `Open to Internship` `Open to Work`
+`Software Developer` `Java Developer` `Python Developer` `Web Development` `Full Stack Developer` `Data Structures and Algorithms` `Machine Learning` `Artificial Intelligence` `Cloud Computing` `AWS` `Cybersecurity` `Secure Coding` `Open to Internships` `Open to Work`
 
 ## 🎯 Career Objective
 To secure a challenging internship/full-time role in **Software Development, AI/ML, Cloud, or Cybersecurity**, where I can apply my technical skills, solve real-world problems, and create measurable business impact.
