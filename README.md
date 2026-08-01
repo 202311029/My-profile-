@@ -128,7 +128,7 @@ Software Engineer • Software Developer • Full Stack Developer • Frontend D
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** https://linkedin.com/in/YOUR-LINK
+- **LinkedIn:** https://in.linkedin.com/in/dinesh-marmat-6b0ba0389
 - **GitHub:** https://github.com/202311029
 - **Email:** 202311029@diu.iiitvadodara.ac.in
 - **Portfolio:** *(Add Portfolio Link)*
