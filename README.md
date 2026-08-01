@@ -1,6 +1,5 @@
 # My-profile-
 
-
 🚀 Turning ideas into impactful digital solutions.
 
 Computer Science Engineering student | Software Developer | AI Enthusiast | Cloud Explorer | Cybersecurity Learner
